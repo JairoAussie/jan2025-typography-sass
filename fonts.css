@@ -1,0 +1,23 @@
+/* Default text size  */
+/* em is relative to parent's font size */
+/* rem is relative to root's size */
+html{
+    font-size: 16px;
+}
+
+body {
+    font-size: 20px;
+}
+
+.typography {
+    margin-top: 160px;
+    text-align: center;
+    /* font-size: 24px; */
+    font-size: 1em;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.styled-div {
+    font-size: 1.5rem;
+}
