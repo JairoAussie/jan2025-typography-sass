@@ -1,0 +1,14 @@
+.scss-parent {
+  font-size: 32px;
+  color: red;
+}
+.scss-parent:hover {
+  color: aqua;
+}
+.scss-parent .scss-child-1 {
+  color: blue;
+}
+.scss-parent .scss-child-1 .scss-child-2 {
+  color: white;
+  background-color: aqua;
+}/*# sourceMappingURL=different.css.map */
