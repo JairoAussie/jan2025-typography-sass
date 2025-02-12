@@ -14,8 +14,10 @@ body {
     text-align: center;
     /* font-size: 24px; */
     font-size: 1em;
-    font-weight: 900;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-family: Roboto;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
 }
 
 .styled-div {
